@@ -1,0 +1,138 @@
+body{
+    padding-left: 2%;
+    padding-right: 2%;
+    box-sizing: border-box;
+}
+
+main{
+    margin-top: 1%;
+}
+
+#encart-formulaire{
+    width: 80%;
+    padding: 10px;
+    border : 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0 auto;
+}
+
+.encart-formulaire-enchere{
+    width: 500px;
+    padding: 10px;
+    border : 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin-left: 5%;
+}
+
+#formulaire-aligned{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#encart-detail-vente{
+	display: flex;
+	flex-direction: row;
+}
+
+#encart-infos-detail-vente, #encart-formulaire-creation-modification-vente{
+	border: 1px solid black;
+}
+
+#formulaireConnexion{
+	top: 30vh;
+	width: 40vw;
+    padding: 10px;
+    border : 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin: 5% auto;
+    
+}
+
+.input-aligned{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+input{
+    width: 150px;
+}
+
+.button_formulaire{
+    border: 3px solid black;
+    height: 40px;
+    box-shadow: 3px 3px 0px black;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.centrage-bouton{
+	width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titre_centre{
+	text-align: center;
+}
+
+.div-flex-row{
+	display: flex;
+	flex-direction: row;
+}
+
+.gras
+{
+	font-weight: bold;
+}
+
+.bouton-aligne
+{
+		float:left;
+}
+
+.centrage-connexion
+{
+	 display: flex;
+    flex-direction: row;
+    
+    margin-right:auto;
+    margin-left:auto
+}
+
+#cadre
+{
+	border : 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#centrage-text
+{
+	  margin: 5% auto;
+	  margin-left: 30%;
+}
+#centrage-img-profil
+{
+  margin-left: 30%;	
+}
+.cadrage-erreur
+{
+	margin: 5% auto;
+}
+.bouton-g-accueil
+{
+	margin-left: 5% auto;
+	float:left;
+}
+.bouton-d-accueil
+{
+	margin-left: 100px;
+	float:left;
+}
