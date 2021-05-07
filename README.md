@@ -1,4 +1,4 @@
-# JavaEE_ENI_ENCHÈRES
+# JavaEE_ENI_ACHATS
 
 Application dynamique de vente/achat d'articles d'occasion (système de points) - Responsive Design - Projet ENI n°1 (non mis en ligne)
 
